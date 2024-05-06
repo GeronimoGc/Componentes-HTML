@@ -4,13 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Auto Escuela Tuluá - Inicio</title>
-    <link rel="icon" href="img/a.png" type="image/png">
+    <title>whatsapp button</title>
     <!-- Icono de la página -->
-    <link rel="stylesheet" href="estilos.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Auto Escuela Tuluá - Inicio</title>
+
 </head>
 <body>
 
@@ -98,7 +96,7 @@
             <link rel="stylesheet" id="joinchat-css"
                 href="assets/css/creame-whatsapp-me/public/css/joinchat.min.css?ver=5.0.6"
                 type="text/css" media="all">
-            <script type="text/javascript" src="assets/javascript/jquery/jquery.min.?ver=3.7.1"
+            <script type="text/javascript" src="assets/javascript/jquery/jquery.min.js?ver=3.7.1"
                 id="jquery-core-js"></script>
             <script type="text/javascript"
                 src="assets/javascript/jquery/jquery-migrate.min.js?ver=3.4.1"
